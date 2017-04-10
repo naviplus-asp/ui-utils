@@ -1,5 +1,6 @@
 {
   "author": "AngularUI Team",
+  "version": "3.0.0",
   "name": "angular-ui-utils",
   "description": "AngularUI Utilities - Companion Suite for AngularJS",
   "homepage": "http://angular-ui.github.com",
